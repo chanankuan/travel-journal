@@ -1,0 +1,7 @@
+.card-list {
+  margin: 0 auto;
+  max-width: 900px;
+  /* min-width: 550px; */
+  padding: 2.8rem 2.5rem;
+  /* border: 1px solid red; */
+}
