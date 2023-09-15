@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <div className='footer'>
       <div className='container'>
-        <p>Developed by Anton Chan</p>
+        <p>Created by Anton Chan</p>
       </div>
     </div>
   );
